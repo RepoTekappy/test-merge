@@ -19,4 +19,8 @@ public class Base {
 	public void supongo() {
 		// Si
 	}
+
+	public void ahora() {
+		//
+	}
 }
