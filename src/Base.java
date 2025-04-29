@@ -4,4 +4,9 @@ public class Base {
 
 	}	
 
+	@PostConstruct
+	private void init() {
+
+	}
+
 }
