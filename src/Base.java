@@ -11,6 +11,8 @@ public class Base {
 
 	public Integer nada(String algo) {
 		// Algo hara
+
+		int suma = 9 + 6;
 		return 0;
 	}
 
