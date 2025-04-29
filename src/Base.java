@@ -14,4 +14,7 @@ public class Base {
 		return 0;
 	}
 
+	public void supongo() {
+		
+	}
 }
