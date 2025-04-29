@@ -9,4 +9,8 @@ public class Base {
 
 	}
 
+	public void nada() {
+
+	}
+
 }
