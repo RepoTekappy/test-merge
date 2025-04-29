@@ -13,7 +13,7 @@ public class Base {
 		// Algo hara
 
 		int suma = 9 + 6;
-		return 0;
+		return suma;
 	}
 
 	public void supongo() {
