@@ -9,8 +9,9 @@ public class Base {
 
 	}
 
-	public void nada(String algo) {
+	public Integer nada(String algo) {
 
+		return 0;
 	}
 
 }
