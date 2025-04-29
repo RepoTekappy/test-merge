@@ -9,7 +9,7 @@ public class Base {
 
 	}
 
-	public void nada() {
+	public void nada(String algo) {
 
 	}
 
