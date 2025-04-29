@@ -1,7 +1,7 @@
 public class Base {
 
 	public Base() {
-
+		// Avanzando!
 	}	
 
 	@PostConstruct
